@@ -14,7 +14,7 @@ public class BaiTap1Main {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args){
         LopHoc lh = new LopHoc();
         HocSinh hs1 = new HocSinh("59CNTT1", "Thiết kế Web", "Mai Kim Trọng", 20, "Ninh Hòa", "0991234568");
         HocSinh hs2 = new HocSinh("59CNTT3", "Tin học cơ sở", "Phạm Triệu Viễn", 21, "Bình Thuận", "093216547");
