@@ -31,8 +31,7 @@ public class LopHoc {
             s = s + 1;
         }
         return s;
-    }
-    
+    }    
     public int inDSGVGD() {
         int s = 0;
         System.out.println("Danh sách giáo viên giảng dạy: ");

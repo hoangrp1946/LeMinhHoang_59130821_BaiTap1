@@ -10,7 +10,6 @@ package baitap1;
  * @author Pc
  */
 public class BaiTap1Main {
-
     /**
      * @param args the command line arguments
      */
